@@ -79,3 +79,4 @@ while expand < 20:
         sleep(2)
 
 print(deleted_requests)
+browser.quit()
